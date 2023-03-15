@@ -39,12 +39,12 @@ Below is contents of what I share publicly. Each link links to GitHub repo with 
       <ul>
         <li>CPU: AMD Ryzen 7 6800HS</li>
         <li>GPU: AMD Radeon RX 6700S</li>
-        <li>RAM: 16GB (DDR5-2666)</li>
+        <li>RAM: 16GB (DDR5-4800)</li>
         <li>SSD: 512GB (NVMe)</li>
         <li>OS1: Windows 11</li>
         <li>OS2: Arch Linux</li>
       </ul>
-    </details>   
+    </details>
 </details>
 
 <div align="center">
