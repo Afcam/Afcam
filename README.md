@@ -7,7 +7,7 @@ An Embedded Software Engineer with a passion for IoT and electronics.
 - 🔭 I’m currently working on windows games project
 - 🌱 I’m currently learning VHDL, C++, C, Python.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [e-mail](mailto:arthur.faria.campos@gmail.com)
+- 📫 How to reach me: [e-mail](mailto:afcampos.dev@gmail.com)
 
 <div align="center">
   
@@ -25,12 +25,12 @@ An Embedded Software Engineer with a passion for IoT and electronics.
 Below is contents of what I share publicly. Each link links to GitHub repo with the code.
 
 - cli
-  - [dotfiles](https://github.com/arthurfariacampos/dotfiles)
+  - [dotfiles](https://github.com/Afcam/dotfiles)
 - docs
-  - [knowledge](https://github.com/arthurfariacampos/knowledge) - trying to build a knoledge-wiki
+  - [knowledge](https://github.com/Afcam/knowledge) - trying to build a knoledge-wiki
 - personal
-  - [cv](https://github.com/arthurfariacampos/cv)
-  - [afcampos.dev](https://github.com/arthurfariacampos/afcampos.dev)
+  - [cv](https://github.com/Afcam/cv)
+  - [afcampos.dev](https://github.com/Afcam/afcampos.dev)
 
 <details>
     <summary><strong>My environments</strong></summary>
