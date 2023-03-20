@@ -29,7 +29,7 @@ Below is contents of what I share publicly. Each link links to GitHub repo with 
 - docs
   - [knowledge](https://github.com/Afcam/knowledge) - trying to build a knoledge-wiki
 - personal
-  - [cv](https://github.com/Afcam/cv)
+  - [cv](https://github.com/Afcam/ArthurCV)
   - [afcampos.dev](https://github.com/Afcam/afcampos.dev)
 
 <details>
