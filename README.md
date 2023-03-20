@@ -15,7 +15,7 @@ An Embedded Software Engineer with a passion for IoT and electronics.
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
-  [![email](https://img.shields.io/badge/Email-arthur.faria.campos@gmail.com-red?style=flat-square&logo=gmail)](mailto:arthur.faria.campos@gmail.com)
+  [![email](https://img.shields.io/badge/Email-afcampos.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:afcampos.dev@gmail.com)
   [![Linkedin: afcampos](https://img.shields.io/badge/-afcampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afcampos/)](https://www.linkedin.com/in/afcampos/)
 
 </div>
