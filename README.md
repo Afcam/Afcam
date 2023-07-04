@@ -1,63 +1,70 @@
-## Hi there 👋
-
-### I'm Arthur Faria Campos
-
-An Embedded Software Engineer with a passion for IoT and electronics.
-
-- 🔭 I’m currently working on windows games project
-- 🌱 I’m currently learning VHDL, C++, C, Python.
-- 💬 Ask me about anything!
-- 📫 How to reach me: [e-mail](mailto:afcampos.dev@gmail.com)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 <div align="center">
-  
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
-  [![email](https://img.shields.io/badge/Email-afcampos.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:afcampos.dev@gmail.com)
-  [![Linkedin: afcampos](https://img.shields.io/badge/-afcampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afcampos/)](https://www.linkedin.com/in/afcampos/)
+[![email](https://img.shields.io/badge/Email-afcampos.dev@gmail.com-red?style=flat-square&logo=gmail)](mailto:afcampos.dev@gmail.com)
+[![Linkedin: afcampos](https://img.shields.io/badge/-afcampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afcampos/)](https://www.linkedin.com/in/afcampos/)
 
 </div>
+Welcome to my GitHub profile!
 
-# ~/src
+### 👩‍💻 About Me
 
-Below is contents of what I share publicly. Each link links to GitHub repo with the code.
+I'm a full-stack developer with a background in electronic engineering. I love building innovative software solutions and solving complex problems.
 
-- cli
-  - [dotfiles](https://github.com/Afcam/dotfiles)
-- docs
-  - [knowledge](https://github.com/Afcam/knowledge) - trying to build a knoledge-wiki
-- personal
-  - [cv](https://github.com/Afcam/ArthurCV)
-  - [afcampos.dev](https://github.com/Afcam/afcampos.dev)
+### 🛠 Language and tools</h3>
 
-<details>
-    <summary><strong>My environments</strong></summary>
-    <details>
-      <summary><strong>Asus ROG Zephyrus G14</strong></summary>
-      <ul>
-        <li>CPU: AMD Ryzen 7 6800HS</li>
-        <li>GPU: AMD Radeon RX 6700S</li>
-        <li>RAM: 16GB (DDR5-4800)</li>
-        <li>SSD: 512GB (NVMe)</li>
-        <li>OS1: Windows 11</li>
-        <li>OS2: Arch Linux</li>
-      </ul>
-    </details>
-</details>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afcam&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afcam&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afcam&theme=github" />
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+#### 🔥 My Stats:
 
-
+<!-- GITHUB_STATS:START -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Afcam">
+        <img src="https://github-readme-stats.vercel.app/api?username=Afcam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" alt="stats graph"  />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Afcam">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afcam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2"  alt="languages graph"  />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- GITHUB_STATS:END -->
