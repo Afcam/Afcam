@@ -50,7 +50,7 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="https://aws.amazon.com/"><img alt="AWS" src="    https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src=" https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
+    <a href="https://www.netlify.com"><img alt="Netlify" src=" https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
 </p>
 
 ### 💻 Software and tools
